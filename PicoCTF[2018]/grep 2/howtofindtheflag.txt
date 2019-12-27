@@ -1,0 +1,17 @@
+Go to in the directory: /problems/grep-2_0_783d3e2c8ea2ebd3799ca6a5d28fc742/files
+(use ssh via your terminal and not from the webshell) 
+
+As we can see there are a lot of files...
+and we can't use a single grep command.
+
+But there's a option for use grep recursively.
+
+"grep -R picoCTF"
+
+output: "files5/file23:picoCTF{grep_r_and_you_will_find_24c911ab}"
+in the folder "files5"
+       file "file23" 
+there's the flag "picoCTF{grep_r_and_you_will_find_24c911ab}"
+
+
+-Vex	
