@@ -14,13 +14,13 @@ Points: 50
 The probelm statement says that this is a PNG file, let's check it using the command file.
 File is used to determine the type of a file. 
 
-'file flag.png'
+`file flag.png`
 
 ![Output](https://imgur.com/SBw2vRVl.png)
 
 Ok, now we know that it isn't a PNG file but a JPEG. Let's rename it with the right extension.
 
-'mv flag.png flag.jpg'
+`mv flag.png flag.jpg`
 
 Wonderful, now we can open the image and we've found the flag!
 
