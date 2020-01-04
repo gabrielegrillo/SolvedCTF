@@ -21,7 +21,7 @@ wget --no-check-certificate https://2019shell1.picoctf.com/static/8694f84879d3b7
 
 Then you can make your own script or use mine.
 
-''
+```python3
 import tarfile
 import os
 
@@ -35,7 +35,7 @@ for tarnum in range(1000, 0, -1):
 
 os.system('rm *.tar filler.txt')
 os.system('ristretto flag.png') # ristretto is my image viewer for the Xfce desktop. 
-''
+```
 
 
 ![Output ristretto flag.png](https://i.imgur.com/o6Xmwf7.png)
