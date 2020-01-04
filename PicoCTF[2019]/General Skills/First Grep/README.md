@@ -14,7 +14,9 @@ Category: General Skills
 In this challange you have to use the command grep that searchs for a pattern in a file. 
 So we use cat for view the content of the file and grep for find the pattern.
 
-`cat file | grep picoCTF`
+```console
+cat file | grep picoCTF
+```
 
 ![Output](https://imgur.com/ldNEhWzl.png)
 
