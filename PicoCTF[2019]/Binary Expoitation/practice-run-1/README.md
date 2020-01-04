@@ -19,13 +19,15 @@ Anyway, let's run file run_this for find which type of file is it.
 
 Let's make it executable with the command:
 
-'''console 
-chmod +x run_this'''
+``` console 
+chmod +x run_this
+```
 
 then execute the file.
 
-'''console
-./run_this'''
+```console
+./run_this
+```
 
 ![Flag](https://i.imgur.com/RnJRqg2.png)
 
