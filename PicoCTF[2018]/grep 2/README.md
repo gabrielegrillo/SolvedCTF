@@ -16,7 +16,7 @@ As we can see there are a lot of files... and we can't use a single grep command
 
 But there's a option for use grep recursively:  grep -R pattern
 
-So we type... "grep -R picoCTF"
+So we type... `grep -R picoCTF`
 
 ![Output](https://i.imgur.com/YY0O2LY.png)
 

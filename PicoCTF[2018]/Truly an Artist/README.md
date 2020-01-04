@@ -14,11 +14,11 @@ Points: 200
 
 We have to look at metadata of this file, we can use 
 
-'strings 2018.png' 
+`strings 2018.png` 
 
 ![Output](https://imgur.com/t3UvegSl.png)
 
-'exiftool 2018.png'
+`exiftool 2018.png`
 
 ![Output](https://imgur.com/o7FKL5Nl.png)
 

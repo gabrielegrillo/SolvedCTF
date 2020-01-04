@@ -17,7 +17,7 @@ Points: 150
 Download the image, after that we can use two commands.
 Grep and xxd. Grep searchs for a pattern inside a file and xxd creates a hex dump of a given file.
 
-so we type: 'grep PicoCTF | xxd hex_editor.jpg'
+so we type: `grep PicoCTF | xxd hex_editor.jpg`
  
 
 ![Output](https://i.imgur.com/yBLrmBSl.png)
