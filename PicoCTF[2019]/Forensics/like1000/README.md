@@ -12,8 +12,10 @@ Category: Forensics
 ## Solution
 
 Download the file with the command:
-'''console 
-wget --no-check-certificate https://2019shell1.picoctf.com/static/8694f84879d3b7c0dcf775930f4665fc/1000.tar'''
+
+```console 
+wget --no-check-certificate https://2019shell1.picoctf.com/static/8694f84879d3b7c0dcf775930f4665fc/1000.tar
+```
 
 
 ![Download the tar](https://i.imgur.com/2cvHaIj.png)
