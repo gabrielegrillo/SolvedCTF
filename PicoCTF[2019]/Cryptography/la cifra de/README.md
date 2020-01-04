@@ -14,9 +14,9 @@ Category: Cryptography
 
 Let's connect with this address through netcat (nc).
 
-''' console 
+```console 
 nc 2019shell1.picoctf.com 32203
-'''
+```
 
 ![nc Output](https://i.imgur.com/iwis3mf.png)
 
