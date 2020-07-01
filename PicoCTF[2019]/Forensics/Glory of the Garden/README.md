@@ -14,8 +14,10 @@ Category: Forensics
 Download the image, after that we can use two commands.
 Grep and xxd. Grep searchs for a pattern inside a file and xxd creates a hex dump of a given file.
 
-so we type: '''console 
-grep PicoCTF | xxd garden.jpg'''
+so we type: 
+'''console 
+grep PicoCTF | xxd garden.jpg
+'''
  
 
 ![Output](https://i.imgur.com/erLyJNZ.png)
