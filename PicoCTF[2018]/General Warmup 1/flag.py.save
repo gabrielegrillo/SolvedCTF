@@ -1,3 +1,0 @@
-character = chr(int('41',16))
-
-final = How to convert a string from hex to ASCII in Python 
